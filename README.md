@@ -25,6 +25,6 @@ Interactive Maps: Access the interactive maps by tapping the "Maps" icon. You ca
 Weather Alerts: If there are any weather alerts or warnings for Columbus, they will be displayed on the main screen.
 
 Feedback and Support
-We value your feedback! If you encounter any issues, have suggestions, or need assistance, please contact our support team at support@columbusweatherapp.com. We're here to help you make the most of your weather-related decisions.
+We value your feedback! If you encounter any issues, have suggestions, or need assistance, please contact our support team. We're here to help you make the most of your weather-related decisions.
 
 Enjoy using the Columbus Weather App, and may it help you stay prepared and informed about the weather conditions in Columbus, Ohio.
